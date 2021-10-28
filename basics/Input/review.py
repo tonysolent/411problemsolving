@@ -4,7 +4,7 @@ print("I would like to ask some questions")
 print("May I ask some questions?")
 answer = input("Enter yes or no: ")
 if answer == "yes":
-    print("Hello")
+    print("Okay thanks")
 elif answer == "no":
     Print("Hey")
 else:
