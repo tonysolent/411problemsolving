@@ -1,6 +1,0 @@
-lives = int(input("Please enter the number of lives.\n"))
-print("\n\n")
-energy = int(input("Please enter the energy level.\n"))
-print("\n\n")
-shield = int(input("Please enter the shield level.\n")
-print("\n\n")

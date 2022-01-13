@@ -1,5 +1,0 @@
-print("Program Started!")
-character = int(input("Please enter an ASCII code:"))
-character = chr(character)
-print(f"The ASCII code for t is: {character}" )
-print("Program Ended!")
